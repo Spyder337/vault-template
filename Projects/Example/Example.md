@@ -20,6 +20,7 @@ How will the project be implemented or what are the steps to complete the projec
 LIST title
 FROM #project/Example
 WHERE title != "Example"
+SORT created
 ```
 # Resources
 Sources used in order to plan the project. Also any research materials go here, such as, blog posts, YouTube videos, etc.

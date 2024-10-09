@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/2024/10-October/08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/2024/10-October/08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Daily Notes/2024/10-October/08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily Notes/2024/10-October/08.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,8 +149,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03648035f09b474f",
+  "active": "e050ffba06f3fa66",
   "lastOpenFiles": [
+    "Daily Notes/2024/10-October/07.md",
+    "Daily Notes/2024/10-October/08.md",
+    "!Templates/text-books/Building a Career in Cyber-security.md",
+    "!Templates/text-books/CompTIA Security+ SY0-701 Certification Guide.md",
+    "!Templates/book.md",
+    "!Templates/web.md",
+    "!Templates/project-toc.md",
+    "!Templates/daily-note.md",
+    "!Templates/project.md",
+    "Textbooks/CompTIA Security+ SY0-701 Certification Guide/CompTIA-701.md",
+    "Textbooks/CompTIA Security+ SY0-701 Certification Guide/Domain 1/Domain 1-Chapter 1.md",
+    "Projects/Example/Example.md",
+    "Daily Notes/2024/10-October/09.md",
+    "README.md",
     "Notes/Lists",
     "Notes/Comp Sci/Cheatsheets",
     "Notes/Lifestyle",
@@ -159,24 +174,10 @@
     "Notes/Comp Sci",
     "Notes/Serial",
     "Notes",
-    "Textbooks/CompTIA Security+ SY0-701 Certification Guide/CompTIA-701.md",
-    "README.md",
     "!Resources/Data",
-    "!Resources/Video",
-    "Textbooks/CompTIA Security+ SY0-701 Certification Guide/Domain 1/Domain 1-Chapter 1.md",
     "Chapter 1.md",
-    "!Templates/text-books/CompTIA Security+ SY0-701 Certification Guide.md",
-    "!Templates/text-books/Building a Career in Cyber-security.md",
-    "!Templates/book.md",
-    "!Templates/daily-note.md",
-    "Daily Notes/2024/10-October/07.md",
     "Daily Notes/2024/10-October/06.md",
-    "Projects/Example/Example.md",
     "Projects/Example/Component.md",
-    "!Templates/web.md",
-    "!Templates/project.md",
-    "!Templates/project-toc.md",
-    "Daily Notes/2024/10-October/08.md",
     "Templates/dbt-note.md",
     "Welcome.md"
   ]
